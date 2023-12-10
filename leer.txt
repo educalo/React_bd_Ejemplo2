@@ -1,0 +1,7 @@
+1.- en back instalamos las dependencias npm install
+2.- en back ejecutamos npm start
+3.- en back inde.js tiene toda la logica de ejecución del servidor
+
+4.- La parte frontend funciona con node 16
+
+
