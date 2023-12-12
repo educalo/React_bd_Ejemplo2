@@ -1,3 +1,6 @@
+PROYECTO QUE PERMITE TRABAJAR CON BASE DE DATOS DONDE HAY UNA PARTE BACKEND Y OTRA FRONTEND, PARA INSTALARLA Y VERLA COMO FUNCIONA DEBEMOS SEGUIR LOS SIGUIENTES PASOS:
+
+
 1.- Este proyecto funciona con la versión node 16.0.0, podemos utilizar la utilidad nvm para poder cambiar la versión de node.
 
 2.- Para instalar nvm accedemos a la siguiente web https://github.com/coreybutler/nvm-windows#installation--upgrades y la descripción en el apartado Overview descargamos la aplicación.
